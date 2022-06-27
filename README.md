@@ -1,4 +1,4 @@
-# Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).
+## Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).
 
 
 During the the full stack project development, there were a few different types of front end code that were used in different parts of the application. The customer facing site was developed originally in Express HTML and then converted over to a .hbs view to help with rendering speeds. HTML is static and client facing, which means it can't interact with backend databases to  update information. Javascript is a frontend and backend coding language that is used to add dynamic elements to the webpage. Using these allowed us to pull trip information from the MongoDB database, to ensure the page will change dynamically depending on what the user does.
